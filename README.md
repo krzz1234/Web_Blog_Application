@@ -1,6 +1,6 @@
 # 📝 Simple Blog Web Application
 
-A clean, full-stack blog application built with a separate front-end and a RESTful API backend using Node.js and Express. This project serves as a great example of a two-part web application architecture.
+A clean, full-stack blog application built with a separate front-end and a built RESTful API backend using Node.js and Express. This project serves as a great example of a two-part web application architecture.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
