@@ -117,6 +117,3 @@ Here are some ideas for enhancing the application:
 
 ---
 
-## 📄 License
-
-This project is licensed under the ISC License. See the `package.json` file for details.
